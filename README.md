@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Ser jag detta?
+Ser jag detta? Detta är readme-filen i gh-pages.
 
 You can use the [editor on GitHub](https://github.com/ikronfeldt/coursera-test/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
