@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-Ser jag detta? Yes, och jag är nu i gh-pages-branchen!
+Ser jag detta? Detta är master-baranchen!
 
 You can use the [editor on GitHub](https://github.com/ikronfeldt/coursera-test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
